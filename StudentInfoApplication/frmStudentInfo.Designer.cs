@@ -262,7 +262,7 @@
             this.Controls.Add(this.tblpnHeader);
             this.MinimumSize = new System.Drawing.Size(800, 400);
             this.Name = "frmStudentInfo";
-            this.Text = "Form1";
+            this.Text = "Student Information Application";
             this.tblpnHeader.ResumeLayout(false);
             this.pnHeader.ResumeLayout(false);
             this.tblpnMain.ResumeLayout(false);
